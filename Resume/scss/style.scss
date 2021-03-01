@@ -1,0 +1,107 @@
+@import 'vendors/bootstrap.min' ;
+/* Vars */
+$primary-color:#0f4f63;
+$background-color:#ededed;
+$text-color:#077483;
+$font: 18px;
+body{
+    padding-bottom: 0px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:$text-color;
+    background: $background-color;
+    font-size: $font !important ;
+}
+h2{
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.4em;
+    font-size: 1.5em;
+    margin: 0 1px 30px 0;
+}
+.primary,strong,h2{
+    color:$primary-color
+}
+.container-main{
+    background: #fff;
+    margin-top: 80px;
+    padding: 0 30px 30px 30px;
+
+}
+header{
+    min-height: 100px;
+    overflow: auto;
+
+}
+header h1{
+    margin: auto;
+    
+    max-width: 80%;
+    padding: 20px 0 0 0 ;
+    font-weight: 700;
+    font-size: 2.2em;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    text-align: center;
+    line-height: 1.4em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.profile-img{
+    width: 160px;
+    display: block;
+    margin: auto;
+    margin-top: -90px;
+}
+.line{
+    max-width: 100%;
+    height: 100px;
+}
+.contact-list{
+    padding: 0;
+    margin:0;
+}
+.contact-list li{
+    list-style: none;
+    font-weight: bold;
+    line-height: 3.2em;
+}
+.contact-list span{
+    display: block;
+    margin: 0;
+    padding: 0;
+    line-height: 0.1em;
+    margin-left: 67px;
+    font-size: 15px;
+    color: #ccc;
+}
+.icons{
+    margin-right: 15px;
+    margin-left: 10px;
+}
+.row{
+    margin-bottom: 40px;
+}
+.media{
+    background: $background-color;
+    padding: 15px !important;
+}
+.worklist li{
+    list-style-type: none;
+    float: left;
+    padding: 0 10px 0 10px;
+    margin-bottom: 30px;
+    width: 100%;
+}
+footer{
+    background: $primary-color;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+}
+.Projects{
+    padding: 10px 0 10px 45px;
+}
+.skills{
+    margin-top: 40px;
+}

@@ -1,0 +1,104 @@
+body{
+    padding-top: 50px;
+}
+.em-text{
+    color: rgb(30, 173, 130) !important;
+}
+
+ #middle{
+    padding: 40px 0 40px 0 ;
+}
+.jumbotron .app-btn{
+    width: 40%;
+    margin-right: 40px;
+}
+
+.jumbotron{
+    background: url(../img/site_showcase_bg.jpg) no-repeat top center ;
+    color: #fff;
+    height: 590px;
+    padding-top: 100px;
+    overflow: hidden;
+}
+
+.img-showcase{
+    height: 60%;
+    margin-left: 140px;
+    width: 60%;
+    margin-top: 60px;
+    opacity: 0.8;
+}
+.jumbotron h1{
+    margin-top: 80px;
+}
+.jumbotron p{
+    margin-bottom: 50px;
+    padding-left: 0;
+}
+.demo{
+    width: 90%;
+    border: 1px solid #ccc;
+    padding-top: 20px;
+    margin: 50px 20px 50px 20px;
+}
+.col-md-4{
+    padding-inline: 20px;
+}
+section#feature{
+    background-color: rgb(30, 173, 130 ,0.9) ;
+    color:white;
+    padding-top: 40px;
+    overflow: auto;
+    padding-bottom: 40px;
+}
+section#feature ul li{
+    font-size: 22px;
+    list-style: none;
+    line-height: 2.0em;
+}
+section#feature h1{
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+footer{
+    background: rgb(24, 44, 38);
+    color: white;
+    padding: 30px 0 20px 0;
+
+}
+footer li{
+    float: left;
+    padding: 0 10px 0 10px;
+    
+    list-style: none;
+}
+footer a{
+    color: white;
+}
+footer p{
+    float: right;
+}
+.biglogo{
+    margin-left: 80px;
+}
+section#title-bar{
+    height: 80px;
+    color: #fff;
+    background-color:rgb(30, 173, 130 ,0.9) ;
+    padding: 0;
+    margin: 0;
+    
+}
+section#title-bar h1{
+   padding-top: 10px;
+}
+.demo1{
+    width: 100%;
+    margin: 40px 0 0 0 ;
+}
+.para1 {
+    margin-bottom: 40px;
+}
+.about3{
+    margin: 60px 0 40px 0;
+}

@@ -1,0 +1,1336 @@
+@media (min-width: 1280px) and (max-width: 1365px) {
+	.mediaViewInfo {
+		--web-view-name: Web 1280 – 3;
+		--web-view-id: Web_1280__3;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-refresh-for-changes: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1280__3 {
+		position: absolute;
+		display: block;
+		width: 1280px;
+		height: 5808px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Web 1280 – 3;
+		--web-view-id: Web_1280__3;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-refresh-for-changes: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	#Group_38 {
+		position: absolute;
+		width: 1998px;
+		height: 9855px;
+		left: -718px;
+		top: 64px;
+		overflow: visible;
+	}
+	#Repeat_Grid_8_du {
+		position: absolute;
+		width: 1998px;
+		height: 9855px;
+		left: 0px;
+		top: 0px;
+		overflow: hidden;
+	}
+	#Repeat_Grid_8_du_0 {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#red_gif_dw {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Repeat_Grid_8_du_1 {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 1089px;
+		overflow: visible;
+	}
+	#red_gif_dy {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Repeat_Grid_8_du_2 {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 2178px;
+		overflow: visible;
+	}
+	#red_gif_d {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Repeat_Grid_8_du_3 {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 3267px;
+		overflow: visible;
+	}
+	#red_gif_ea {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Repeat_Grid_8_du_4 {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 4356px;
+		overflow: visible;
+	}
+	#red_gif_eb {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Repeat_Grid_8_du_5 {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 5445px;
+		overflow: visible;
+	}
+	#red_gif_ec {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Repeat_Grid_8_du_6 {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 6534px;
+		overflow: visible;
+	}
+	#red_gif_ed {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Repeat_Grid_8_du_7 {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 7623px;
+		overflow: visible;
+	}
+	#red_gif_ee {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Repeat_Grid_8_du_8 {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 8712px;
+		overflow: visible;
+	}
+	#red_gif_ef {
+		position: absolute;
+		width: 1998px;
+		height: 1124px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Hi_ed {
+		left: 604px;
+		top: 217px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 71px;
+		color: rgba(255,255,255,1);
+	}
+	#Ellipse_9 {
+		fill: rgba(242,54,60,1);
+	}
+	.Ellipse_9 {
+		position: absolute;
+		overflow: visible;
+		width: 13px;
+		height: 12px;
+		left: 659px;
+		top: 241px;
+	}
+	#am_Shivam_Dhaka_ef {
+		left: 457px;
+		top: 357px;
+		position: absolute;
+		overflow: visible;
+		width: 399px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 49px;
+		color: rgba(225,225,225,1);
+	}
+	#I_eg {
+		left: 424px;
+		top: 357px;
+		position: absolute;
+		overflow: visible;
+		width: 13px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 44px;
+		color: rgba(242,54,60,1);
+	}
+	#a_web_Developer_eh {
+		left: 504px;
+		top: 450px;
+		position: absolute;
+		overflow: visible;
+		width: 267px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#About_ME_ei {
+		left: 559px;
+		top: 879px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(225,225,225,1);
+	}
+	#_ej {
+		left: 659px;
+		top: 1193px;
+		position: absolute;
+		overflow: visible;
+		width: 1px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 70px;
+		color: rgba(242,54,60,1);
+	}
+	#Resourceful_Front_End_Web_Deve_ek {
+		left: 135px;
+		top: 1036px;
+		position: absolute;
+		overflow: hidden;
+		width: 1011px;
+		height: 232px;
+		line-height: 50px;
+		margin-top: -10px;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+	#Education_el {
+		left: 568px;
+		top: 3202px;
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		white-space: nowrap;
+		line-height: 34px;
+		margin-top: -1.5px;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+	}
+	#Icon_simple-codeschool_em {
+		fill: rgba(242,54,60,1);
+	}
+	.Icon_simple-codeschool_em {
+		overflow: visible;
+		position: absolute;
+		width: 50.558px;
+		height: 50.545px;
+		left: 614.221px;
+		top: 3151.932px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Group_25 {
+		position: absolute;
+		width: 974px;
+		height: 107px;
+		left: 153px;
+		top: 3306px;
+		overflow: visible;
+	}
+	#Rectangle_61_eo {
+		opacity: 0.24;
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_61_eo {
+		position: absolute;
+		overflow: visible;
+		width: 974px;
+		height: 107px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_62_ep {
+		fill: rgba(242,54,60,1);
+	}
+	.Rectangle_62_ep {
+		position: absolute;
+		overflow: visible;
+		width: 14px;
+		height: 74px;
+		left: 317px;
+		top: 17px;
+	}
+	#Graduation_eq {
+		left: 52px;
+		top: 6px;
+		position: absolute;
+		overflow: visible;
+		width: 215px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 42px;
+		color: rgba(255,255,255,1);
+	}
+	#ID2018_-_Current_er {
+		left: 134px;
+		top: 62px;
+		position: absolute;
+		overflow: visible;
+		width: 129px;
+		white-space: nowrap;
+		line-height: 34px;
+		margin-top: -7px;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(242,54,60,1);
+	}
+	#Deshbandhu_College_Delhi_Unive_es {
+		left: 378px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 491px;
+		white-space: nowrap;
+		line-height: 35px;
+		margin-top: -3.5px;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 28px;
+		color: rgba(245,245,245,1);
+	}
+	#Bsc_Computer_Science_et {
+		left: 378px;
+		top: 54px;
+		position: absolute;
+		overflow: visible;
+		width: 201px;
+		white-space: nowrap;
+		line-height: 34px;
+		margin-top: -7px;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(245,245,245,1);
+	}
+	#Group_26 {
+		position: absolute;
+		width: 974px;
+		height: 106px;
+		left: 153px;
+		top: 3461px;
+		overflow: visible;
+	}
+	#Rectangle_61_ev {
+		opacity: 0.24;
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_61_ev {
+		position: absolute;
+		overflow: visible;
+		width: 974px;
+		height: 106px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_62_ew {
+		fill: rgba(242,54,60,1);
+	}
+	.Rectangle_62_ew {
+		position: absolute;
+		overflow: visible;
+		width: 14px;
+		height: 73px;
+		left: 317px;
+		top: 17px;
+	}
+	#Intermediate_ex {
+		left: 36px;
+		top: 6px;
+		position: absolute;
+		overflow: visible;
+		width: 245px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 42px;
+		color: rgba(255,255,255,1);
+	}
+	#ID2016_-_2018_ey {
+		left: 148px;
+		top: 62px;
+		position: absolute;
+		overflow: visible;
+		width: 103px;
+		white-space: nowrap;
+		line-height: 34px;
+		margin-top: -7px;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(242,54,60,1);
+	}
+	#Konark_Vidyapeeth__khekra_Bagh_ez {
+		left: 383px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 483px;
+		white-space: nowrap;
+		line-height: 35px;
+		margin-top: -3.5px;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 28px;
+		color: rgba(245,245,245,1);
+	}
+	#PCM_e {
+		left: 383px;
+		top: 53px;
+		position: absolute;
+		overflow: visible;
+		width: 43px;
+		white-space: nowrap;
+		line-height: 34px;
+		margin-top: -7px;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(245,245,245,1);
+	}
+	#Group_27 {
+		position: absolute;
+		width: 974px;
+		height: 107px;
+		left: 153px;
+		top: 3615px;
+		overflow: visible;
+	}
+	#Rectangle_61_e {
+		opacity: 0.24;
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_61_e {
+		position: absolute;
+		overflow: visible;
+		width: 974px;
+		height: 107px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_62_e {
+		fill: rgba(242,54,60,1);
+	}
+	.Rectangle_62_e {
+		position: absolute;
+		overflow: visible;
+		width: 14px;
+		height: 74px;
+		left: 317px;
+		top: 17px;
+	}
+	#Highschool_e {
+		left: 51px;
+		top: 6px;
+		position: absolute;
+		overflow: visible;
+		width: 217px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 42px;
+		color: rgba(255,255,255,1);
+	}
+	#ID2014_-_2016_e {
+		left: 147px;
+		top: 62px;
+		position: absolute;
+		overflow: visible;
+		width: 109px;
+		white-space: nowrap;
+		line-height: 35px;
+		margin-top: -7px;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(242,54,60,1);
+	}
+	#Konark_Vidyapeeth__khekra_Bagh_e {
+		left: 383px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 483px;
+		white-space: nowrap;
+		line-height: 35px;
+		margin-top: -3.5px;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 28px;
+		color: rgba(245,245,245,1);
+	}
+	#-_e {
+		left: 383px;
+		top: 54px;
+		position: absolute;
+		overflow: visible;
+		width: 9px;
+		white-space: nowrap;
+		line-height: 35px;
+		margin-top: -7px;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(245,245,245,1);
+	}
+	#ID934__e {
+		left: 959px;
+		top: 3514px;
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		white-space: nowrap;
+		line-height: 34px;
+		margin-top: -7px;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#ID10_CGPA_e {
+		left: 940px;
+		top: 3669px;
+		position: absolute;
+		overflow: visible;
+		width: 85px;
+		white-space: nowrap;
+		line-height: 35px;
+		margin-top: -7px;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(255,255,255,1);
+	}
+	#_Work_fa {
+		left: 611px;
+		top: 1583px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(241,54,55,1);
+	}
+	#My_fb {
+		left: 560px;
+		top: 1583px;
+		position: absolute;
+		overflow: visible;
+		width: 51px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(240,54,57,1);
+	}
+	#Ski_fc {
+		left: 600px;
+		top: 2405px;
+		position: absolute;
+		overflow: visible;
+		width: 47px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 34px;
+		color: rgba(245,245,245,1);
+	}
+	#ll_fd {
+		left: 646px;
+		top: 2405px;
+		position: absolute;
+		overflow: visible;
+		width: 19px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 36px;
+		color: rgba(240,54,57,1);
+	}
+	#s_fe {
+		left: 664px;
+		top: 2405px;
+		position: absolute;
+		overflow: visible;
+		width: 15px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 34px;
+		color: rgba(245,245,245,1);
+	}
+	#Repeat_Grid_4 {
+		position: absolute;
+		width: 35.227px;
+		height: 368.215px;
+		left: 356.701px;
+		top: 2529.437px;
+		overflow: hidden;
+	}
+	#Repeat_Grid_4_0 {
+		position: absolute;
+		width: 36.739px;
+		height: 41.803px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Icon_simple-node-dot-js_fh {
+		fill: rgba(242,54,60,1);
+	}
+	.Icon_simple-node-dot-js_fh {
+		overflow: visible;
+		position: absolute;
+		width: 36.026px;
+		height: 41.181px;
+		transform: translate(-503.54px, -3691.53px) matrix(1,0,0,1,503.8963,3691.8416) rotate(181deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Repeat_Grid_4_1 {
+		position: absolute;
+		width: 36.739px;
+		height: 41.803px;
+		left: 0px;
+		top: 100px;
+		overflow: visible;
+	}
+	#Icon_simple-node-dot-js_fj {
+		fill: rgba(242,54,60,1);
+	}
+	.Icon_simple-node-dot-js_fj {
+		overflow: visible;
+		position: absolute;
+		width: 36.026px;
+		height: 41.181px;
+		transform: translate(-503.54px, -3691.53px) matrix(1,0,0,1,503.8963,3691.8416) rotate(181deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Repeat_Grid_4_2 {
+		position: absolute;
+		width: 36.739px;
+		height: 41.803px;
+		left: 0px;
+		top: 200px;
+		overflow: visible;
+	}
+	#Icon_simple-node-dot-js_fl {
+		fill: rgba(242,54,60,1);
+	}
+	.Icon_simple-node-dot-js_fl {
+		overflow: visible;
+		position: absolute;
+		width: 36.026px;
+		height: 41.181px;
+		transform: translate(-503.54px, -3691.53px) matrix(1,0,0,1,503.8963,3691.8416) rotate(181deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Repeat_Grid_4_3 {
+		position: absolute;
+		width: 36.739px;
+		height: 41.803px;
+		left: 0px;
+		top: 300px;
+		overflow: visible;
+	}
+	#Icon_simple-node-dot-js_fn {
+		fill: rgba(242,54,60,1);
+	}
+	.Icon_simple-node-dot-js_fn {
+		overflow: visible;
+		position: absolute;
+		width: 36.026px;
+		height: 41.181px;
+		transform: translate(-503.54px, -3691.53px) matrix(1,0,0,1,503.8963,3691.8416) rotate(181deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#A_very_firm_grip_on_Web_design_fo {
+		left: 443.178px;
+		top: 2529.437px;
+		position: absolute;
+		overflow: visible;
+		width: 415px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(245,245,245,1);
+	}
+	#Profeciency_in_HTML__CSS_and_J_fp {
+		left: 443.178px;
+		top: 2609.178px;
+		position: absolute;
+		overflow: visible;
+		width: 407px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(245,245,245,1);
+	}
+	#Detailed_knowledge_of_Bootstra_fq {
+		left: 440.33px;
+		top: 2688.92px;
+		position: absolute;
+		overflow: visible;
+		width: 407px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(245,245,245,1);
+	}
+	#Familiar_with_CSS_preprocessor_fr {
+		left: 443.178px;
+		top: 2768.662px;
+		position: absolute;
+		overflow: visible;
+		width: 383px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(245,245,245,1);
+	}
+	#Learning_and_improving_REACT_a_fs {
+		left: 442.466px;
+		top: 2848.404px;
+		position: absolute;
+		overflow: visible;
+		width: 533px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(245,245,245,1);
+	}
+	#ME_ft {
+		left: 669.815px;
+		top: 4890.528px;
+		position: absolute;
+		overflow: visible;
+		width: 51px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(241,54,55,1);
+	}
+	#Contact_fu {
+		left: 520.815px;
+		top: 4890.528px;
+		position: absolute;
+		overflow: visible;
+		width: 125px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(245,245,245,1);
+	}
+	#Icon_zocial-email_fv {
+		fill: rgba(241,54,55,1);
+	}
+	.Icon_zocial-email_fv {
+		overflow: visible;
+		position: absolute;
+		width: 45.377px;
+		height: 30.631px;
+		left: 430.476px;
+		top: 5033.858px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#shivamdhaka1200gmailcom_fw {
+		left: 529.251px;
+		top: 5033.874px;
+		position: absolute;
+		overflow: visible;
+		width: 323px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(245,245,245,1);
+	}
+	#Icon_awesome-phone_fx {
+		fill: rgba(241,54,55,1);
+	}
+	.Icon_awesome-phone_fx {
+		overflow: visible;
+		position: absolute;
+		width: 42.932px;
+		height: 42.932px;
+		left: 431.859px;
+		top: 5304.351px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#ID8126714483_fy {
+		left: 529.251px;
+		top: 5307.274px;
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(245,245,245,1);
+	}
+	#Icon_awesome-instagram_fz {
+		fill: rgba(241,54,55,1);
+	}
+	.Icon_awesome-instagram_fz {
+		overflow: visible;
+		position: absolute;
+		width: 44.315px;
+		height: 44.305px;
+		left: 430.476px;
+		top: 5114.328px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#shivam__dhaka___f {
+		left: 529.251px;
+		top: 5125.169px;
+		position: absolute;
+		overflow: visible;
+		width: 179px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(245,245,245,1);
+	}
+	#Icon_awesome-linkedin-in_f {
+		fill: rgba(241,54,55,1);
+	}
+	.Icon_awesome-linkedin-in_f {
+		overflow: visible;
+		position: absolute;
+		width: 46.042px;
+		height: 46.042px;
+		left: 428.749px;
+		top: 5208.471px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#linkdin__Shivam-dhaka_f {
+		left: 529.251px;
+		top: 5216.141px;
+		position: absolute;
+		overflow: visible;
+		width: 245px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(245,245,245,1);
+	}
+	#Download_f {
+		left: 519.751px;
+		top: 5666.528px;
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(245,245,245,1);
+	}
+	#CV_f {
+		left: 676.751px;
+		top: 5666.528px;
+		position: absolute;
+		overflow: visible;
+		width: 41px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 31px;
+		color: rgba(241,54,55,1);
+	}
+	#gamma_f {
+		position: absolute;
+		width: 360px;
+		height: 171px;
+		left: 185px;
+		top: 1752px;
+		overflow: visible;
+	}
+	#Resume_f {
+		position: absolute;
+		width: 358px;
+		height: 176px;
+		left: 709px;
+		top: 2020px;
+		overflow: visible;
+	}
+	#Dobble_f {
+		position: absolute;
+		width: 352px;
+		height: 169px;
+		left: 705px;
+		top: 1746px;
+		overflow: visible;
+	}
+	#Stopwatch_f {
+		position: absolute;
+		width: 363px;
+		height: 174px;
+		left: 175px;
+		top: 2029px;
+		overflow: visible;
+	}
+	#Gamma {
+		left: 314px;
+		top: 1930px;
+		position: absolute;
+		overflow: visible;
+		width: 83px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#Resume_ga {
+		left: 845px;
+		top: 2210px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Dobble_gb {
+		left: 841px;
+		top: 1930px;
+		position: absolute;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#Stopwatch_gc {
+		left: 307px;
+		top: 2210px;
+		position: absolute;
+		overflow: visible;
+		width: 111px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#Navbar_gd {
+		position: fixed;
+		width: 1280px;
+		height: 64px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_60_ge {
+		fill: rgba(23,24,31,1);
+	}
+	.Rectangle_60_ge {
+		position: absolute;
+		overflow: visible;
+		width: 1280px;
+		height: 64px;
+		left: 0px;
+		top: 0px;
+	}
+	#Navbar_gf {
+		opacity: 0.7;
+		position: fixed;
+		width: 426px;
+		height: 31px;
+		left: 425px;
+		top: 16px;
+		overflow: visible;
+	}
+	#About_gg {
+		left: 118px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 65px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 23px;
+		color: rgba(250,250,250,1);
+	}
+	#Contact_gh {
+		left: 346px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 81px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 23px;
+		color: rgba(250,250,250,1);
+	}
+	#Skills_gi {
+		left: 238px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 53px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 23px;
+		color: rgba(250,250,250,1);
+	}
+	#Home_gj {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 61px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 22px;
+		color: rgba(250,250,250,1);
+	}
+	#Group_42 {
+		position: absolute;
+		width: 1063px;
+		height: 612px;
+		left: 113px;
+		top: 4011px;
+		overflow: visible;
+	}
+	#My_gl {
+		left: 374px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 46px;
+		color: rgba(240,53,55,1);
+	}
+	#Certificates_gm {
+		left: 467px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 235px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 46px;
+		color: rgba(255,255,255,1);
+	}
+	#Certificate_Web_Desigin_gn {
+		position: absolute;
+		width: 493px;
+		height: 351px;
+		left: 0px;
+		top: 166px;
+		overflow: visible;
+	}
+	#Certificate_Responsive_Web_Des_go {
+		position: absolute;
+		width: 448px;
+		height: 349px;
+		left: 615px;
+		top: 168px;
+		overflow: visible;
+	}
+	#Responsive_Web_Design_gp {
+		left: 753px;
+		top: 526px;
+		position: absolute;
+		overflow: visible;
+		width: 171px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 32px;
+		color: rgba(245,245,245,1);
+	}
+	#Web_Desigin__and_Development_gq {
+		left: 119px;
+		top: 526px;
+		position: absolute;
+		overflow: visible;
+		width: 253px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 32px;
+		color: rgba(245,245,245,1);
+	}
+	#Icon_awesome-github_gr {
+		fill: rgba(241,54,55,1);
+	}
+	.Icon_awesome-github_gr {
+		overflow: visible;
+		position: absolute;
+		width: 52.254px;
+		height: 50.949px;
+		left: 425.643px;
+		top: 5393.872px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Shivam-Dhaka_12_gs {
+		left: 522.751px;
+		top: 5402.846px;
+		position: absolute;
+		overflow: visible;
+		width: 195px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(245,245,245,1);
+	}
+}
