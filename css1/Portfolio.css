@@ -340,7 +340,7 @@
 		position: absolute;
 		overflow: hidden;
 		width: 1420px;
-		height: 325px;
+		height: 440px;
 		line-height: 50px;
 		margin-top: -10px;
 		text-align: center;
@@ -1698,7 +1698,7 @@
 		position: absolute;
 		overflow: hidden;
 		width: 1011px;
-		height: 232px;
+		height: 440px;
 		line-height: 50px;
 		margin-top: -10px;
 		text-align: center;
@@ -3025,7 +3025,7 @@
 		position: absolute;
 		overflow: hidden;
 		width: 1226px;
-		height: 281px;
+		height: 440px;
 		line-height: 50px;
 		margin-top: -10px;
 		text-align: center;
@@ -4104,7 +4104,7 @@
 		display: block;
 		margin-top: -80px;
 		width: 360px;
-		height: 5528px;
+		height: 5600px;
 		background-color: rgba(255,255,255,1);
 		overflow: hidden;
 		--web-view-name: Samsung Galaxy S10 – 1;
