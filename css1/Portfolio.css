@@ -4873,6 +4873,7 @@
 		font-weight: normal;
 		font-size: 19px;
 		color: rgba(245,245,245,1);
+		margin-top: 50px;
 	}
 	#CV_lq {
 		left: 208.283px;
@@ -4887,6 +4888,7 @@
 		font-weight: normal;
 		font-size: 19px;
 		color: rgba(241,54,55,1);
+		margin-top: 50px;
 	}
 	#gamma_lr {
 		position: absolute;
